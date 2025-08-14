@@ -11,7 +11,7 @@ st.markdown("**Autor: Malory Claro**")
 
 # Imagen debajo del autor (usamos una imagen de internet)
 st.image("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_sjlLXiqST6zFVK4uDi5E136R4RXq_wNw7A&s",  use_container_width=True,
-         caption="El camino al éxito académico")
+         caption="El camino al éxito académico xd")
 
 # Introducción
 st.markdown("""
@@ -38,3 +38,4 @@ if st.button("📊 Predecir"):
 # Pie de página
 st.markdown("---")
 st.markdown("© 2025 Malory Claro")
+
